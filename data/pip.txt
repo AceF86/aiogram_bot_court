@@ -1,0 +1,33 @@
+pip install python-telegram-bot
+
+pip install schedule
+
+
+
+pip install black
+
+
+
+pip install gTTS
+
+pip install gTTS==1.2.0
+
+pip install --upgrade gtts
+
+pip install --upgrade gtts-token
+
+
+
+pip install aiogram
+
+pip install aiodns
+
+pip install aiohttp[speedups]
+
+
+
+
+
+
+
+
