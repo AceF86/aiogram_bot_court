@@ -1,3 +1,3 @@
-TOKEN = "2143038264:AAEcpzv7kTrDXWJ0jEIf_jhF4cjmkiYdhHc"
+TOKEN = ""
 
-MASTER = "552974553"
+MASTER = ""
